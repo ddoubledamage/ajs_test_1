@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1718730647993" clover="3.2.0">
+  <project timestamp="1718730647993" name="All files">
+    <metrics statements="1" coveredstatements="1" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1" elements="12" coveredelements="12" complexity="0" loc="1" ncloc="1" packages="1" files="1" classes="1"/>
+    <file name="healthBarState.js" path="C:\Users\rageo\WebstormProjects\ajs_4\src\js\healthBarState.js">
+      <metrics statements="1" coveredstatements="1" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+      <line num="2" count="4" type="cond" truecount="10" falsecount="0"/>
+    </file>
+  </project>
+</coverage>

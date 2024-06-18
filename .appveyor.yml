@@ -1,9 +1,7 @@
 image: Ubuntu1804
 stack: node 12
 branches:
-  only:
-    -master
-    -main
+  only: -main
 cache: node_modules
 install:
   -npm install
